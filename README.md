@@ -1,4 +1,4 @@
-## Oiii eu sou a William Cardoso, estudante de programação e tecnologia!
+## Oiii eu sou o William Cardoso, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/WilliamC667">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamC667&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
